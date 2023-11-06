@@ -1,14 +1,14 @@
-// Assignment code here
 function generatePassword() {
     var criteria = window.confirm("Would you like to choose password criteria?");
 
     if (!criteria) {
         return;
     }
+
     var passLength = parseInt(window.prompt("Set character length (min: 8 max: 128)"), 10);
 
 
-    if (passLength > 8 && length < 128) {
+    if (passLength >= 8 && passLength <= 128) {
         window.alert("You have choosen to use " + passLength + " characters")
     } else {
         window.alert("Please choose an approiate length!")
@@ -52,34 +52,34 @@ function generatePassword() {
 
     var charset = "";
 
-if (uppercase) {
-    charset += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-}
-if (lowercase) {
-    charset += "abcdefghijklmnopqrstuvwxz";
-}
-if (numeric) {
-    charset += "0123456789";
-}
-if (specialCharacter) {
-    charset += "`~!@#$%^&*()-_+=?<>";
+    if (uppercase) {
+        charset += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    }
+    if (lowercase) {
+        charset += "abcdefghijklmnopqrstuvwxz";
+    }
+    if (numeric) {
+        charset += "0123456789";
+    }
+    if (specialCharacter) {
+        charset += "`~!@#$%^&*()-_+=?<>";
+    }
+
+    var password = "";
+    for (var i = 0; i < passLength; i++) {
+        var randomIndex = Math.floor(Math.random() * charset.length);
+        password += charset.charAt(randomIndex);
+    }
+
+    return password;
 }
 
-var password = "";
-  for (var i = 0; i < passLength; i++) {
-    var randomIndex = Math.floor(Math.random() * charset.length);
-    password += charset.charAt(randomIndex);
-  }
-
-  return password;
-}
 
 
 
-// Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
+
 function writePassword() {
     var password = generatePassword();
     var passwordText = document.querySelector("#password");
@@ -88,6 +88,5 @@ function writePassword() {
 
 }
 
-// Add event listener to generate button
-//generateBtn.addEventListener("click", writePassword);
+
 generateBtn.addEventListener("click", writePassword);
