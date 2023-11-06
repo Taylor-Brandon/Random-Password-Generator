@@ -44,7 +44,7 @@ In order to explore this project in greater depth locally on your machine, pleas
 Access the live demo link below in order to generate a password. From there, click the button that allows you to generate a password. Then, a series of questions regarding the criteria utilized in order to create this password will appear. After they have been answered, a password will appear on the website. 
 
 # Contributing
-
+To contribute, clone the repository to your local machine. You can also submit bug reports, feature requests, and suggestions by creating GitHub issues.
 
 # License
 
