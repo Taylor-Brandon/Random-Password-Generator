@@ -40,10 +40,11 @@ In order to explore this project in greater depth locally on your machine, pleas
 2. Open the project folder in your preferred code editor.
 3. Double-click the 'index.html' file to view it in your web browser.
 
-
 # Usage
+Access the live demo link below in order to generate a password. From there, click the button that allows you to generate a password. Then, a series of questions regarding the criteria utilized in order to create this password will appear. After they have been answered, a password will appear on the website. 
 
 # Contributing
+
 
 # License
 
