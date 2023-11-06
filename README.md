@@ -78,3 +78,4 @@ The references used for this application can be found here. These include:
 ![Game Screenshot](./images/RPG.png)
 
 # Demo
+You can explore the live demo of this project by clicking the following link: [Live Demo](https://taylor-brandon.github.io/Random-Password-Generator/)
