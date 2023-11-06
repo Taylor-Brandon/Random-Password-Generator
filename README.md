@@ -57,6 +57,10 @@ If you have any questions, suggestions, or feedback, you can reach out to the pr
 
 
 # Version History
+* Version 1.0.0 (Initial Release)
+    * Basic HTML and CSS structure    
+    * README file created
+    * Live demo link added
 
 # References
 
