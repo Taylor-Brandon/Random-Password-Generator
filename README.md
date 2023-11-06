@@ -2,6 +2,21 @@
 
 # Description
 This website allows for users to generate a new and random password through prompting criteria questions that allow them to customize its length, capitalization, numerization, and utilization of special characters.
+This includes . . .
+
+* The presentation of a series of questions for the password criteria once the button to generate a password has been clicked.
+
+* The ability to select criteria to include in the password.
+
+* Inclusion of at least eight characters and no more than one hundred and twenty eight characters in a neewly generated password.
+
+* The ability to confirm an inclusion of capitalization and the lack thereof, numerization, and the use of special characters.
+
+* The validation of each criteria as well the confirmation that at least one character type has been choosen.
+
+* A generation of a password that matches the selected criteria.
+
+* The display of this password written of the website.
 
 # Table of Contents
 * [Project Title](#project-title)
