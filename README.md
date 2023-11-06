@@ -53,6 +53,8 @@ This project is released under the MIT License. For more details, please refer t
 A special thanks to Columbia University Bootcamps for providing the educational material as well as the inspiration and criteria for this project!
 
 # Support
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at [taylor.brandon22545@gmail.com](mailto:taylor.brandon22545@gmail.com) or create an issue on the GitHub repository [here](https://github.com/Taylor-Brandon).
+
 
 # Version History
 
