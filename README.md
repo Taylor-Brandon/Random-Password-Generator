@@ -63,6 +63,16 @@ If you have any questions, suggestions, or feedback, you can reach out to the pr
     * Live demo link added
 
 # References
+The references used for this application can be found here. These include:
+
+* [MDN Web Docs on window.alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
+
+* [MDN Web Docs on window.confirm()](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
+
+* [MDN Web Docs on window.prompt()](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+
+* [MDN Web Docs on Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+
 
 # Screenshots
 
