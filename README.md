@@ -75,5 +75,6 @@ The references used for this application can be found here. These include:
 
 
 # Screenshots
+![Game Screenshot](./images/RPG.png)
 
 # Demo
