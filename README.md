@@ -34,6 +34,12 @@ This includes . . .
 *  [Demo](#demo)
 
 # Installation
+In order to explore this project in greater depth locally on your machine, please follow these steps:
+
+1. Clone the repository to your local machine.
+2. Open the project folder in your preferred code editor.
+3. Double-click the 'index.html' file to view it in your web browser.
+
 
 # Usage
 
