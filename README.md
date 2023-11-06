@@ -50,6 +50,7 @@ To contribute, clone the repository to your local machine. You can also submit b
 This project is released under the MIT License. For more details, please refer to the [MIT License](./LICENSE).
 
 # Acknowledgement
+A special thanks to Columbia University Bootcamps for providing the educational material as well as the inspiration and criteria for this project!
 
 # Support
 
