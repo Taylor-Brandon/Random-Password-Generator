@@ -47,6 +47,7 @@ Access the live demo link below in order to generate a password. From there, cli
 To contribute, clone the repository to your local machine. You can also submit bug reports, feature requests, and suggestions by creating GitHub issues.
 
 # License
+This project is released under the MIT License. For more details, please refer to the [MIT License](./LICENSE).
 
 # Acknowledgement
 
